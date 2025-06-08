@@ -1,0 +1,30 @@
+{
+  "name": "save-mother-nature",
+  "version": "1.0.0",
+  "description": "A website to raise awareness about protecting nature with a touch of sarcasm from Mother Nature.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "nature",
+    "environment",
+    "express",
+    "ejs",
+    "sarcasm",
+    "green-planet"
+  ],
+  "author": "Mohit",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
